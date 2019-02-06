@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:superj80820/Android-App-HC05-Arduino.git
